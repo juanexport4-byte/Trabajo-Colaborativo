@@ -1,0 +1,6 @@
+1- Ingresar a mi repositorio llamado Trabajo Colaborativo.
+2- Ingresar a la carpeta asignada al grupo.
+3- Hacer una copia independiente con Fork dentro de GITHUB 
+4- Anadir con setting a los demàs integrantes del grupo.
+5- Trabajar en la carpeta asignada de manera colaborativa.
+6- Finalizado el proyecto hacer Pull Requets en mismo GITHUB → New pull request → aceptar
